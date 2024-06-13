@@ -1,7 +1,5 @@
 # front
-frontv3
-# front
-frontv3
+Vue js mini projet 
 # BDA
 
 ## Project setup
